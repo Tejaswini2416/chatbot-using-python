@@ -51,7 +51,6 @@ You can then interact with the chatbot in the terminal.
 - Python
 - NLTK (Natural Language Toolkit)
 - ChatterBot (if applicable)
-- Flask (if applicable for web deployment)
 
 ## Contributing
 
