@@ -1,6 +1,4 @@
-Here’s a sample README file tailored for your chatbot project hosted at the GitHub repository `https://github.com/Tejaswini2416/chatbot-using-python.git`. You can modify it as needed:
 
-```markdown
 # Chatbot Using Python
 
 A simple chatbot built using Python that can engage in basic conversations and respond to user inputs. This project demonstrates the fundamentals of chatbot development and natural language processing.
